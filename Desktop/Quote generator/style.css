@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+   }
+  body{
+    background-image: url(./black\ ferrari.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+  #quote{
+    color: goldenrod;
+    letter-spacing: 0.23em;
+    font-family: 'Lora';
+    font-size: 2.5rem;
+    margin-left: 20px;
+    margin-top: 50px;
+  }
+  #btn{
+    margin-left: 34%;
+    margin-top: 10%;
+    padding: 5px 40px;
+    background: rgb(255, 255, 255);
+    color: black;
+    border: 6px double green;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-family: 'Poppins';
+  }   
